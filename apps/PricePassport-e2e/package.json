@@ -1,0 +1,10 @@
+{
+  "name": "@price-passport/PricePassport-e2e",
+  "version": "0.0.1",
+  "private": true,
+  "nx": {
+    "implicitDependencies": [
+      "@price-passport/PricePassport"
+    ]
+  }
+}
